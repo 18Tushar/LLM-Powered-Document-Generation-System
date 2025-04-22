@@ -9,7 +9,6 @@
 
 Micropoint is an advanced document generation system that creates professional PowerPoint presentations from natural language prompts, enhanced with Retrieval-Augmented Generation (RAG) for context-aware content.
 
-![Micropoint Demo](https://i.imgur.com/placeholder.png)
 
 ## 🚀 Features
 
@@ -32,12 +31,6 @@ Micropoint is an advanced document generation system that creates professional P
 - **HuggingFace Embeddings**: Semantic search capabilities
 
 ## 🛠️ Installation & Setup
-
-### Prerequisites
-
-- Python 3.8+
-- [vLLM](https://github.com/vllm-project/vllm) server running with Meta LLaMA 3-8B
-- 8GB+ RAM recommended
 
 ### Quick Start
 
@@ -144,23 +137,10 @@ Micropoint is an advanced document generation system that creates professional P
 - [ ] Collaboration features for team presentation creation
 - [ ] Fine-tuning options for specialized domains
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Meta AI](https://ai.meta.com/) for the LLaMA model
-- [vLLM Project](https://github.com/vllm-project/vllm) for the inference server
-- [Streamlit](https://streamlit.io/) for the web interface framework
-- [ChromaDB](https://www.trychroma.com/) for vector database functionality
 
 ## 👤 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@18Tushar]([https://github.com/yourusername](https://github.com/18Tushar))
+- Email: worktush@outlook.com
+- LinkedIn: [Tushar Goud]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tushargoud7756))
 
----
-
-*Created March 2025 - Micropoint: Transforming ideas into presentations with AI*
