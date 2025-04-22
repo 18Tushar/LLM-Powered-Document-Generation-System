@@ -1,14 +1,10 @@
-# LLM-Powered-Document-Generation-System
-# 🎯 Micropoint: RAG-Powered AI Presentation Creator
+# 🎯 LLM-Powered-Document-Generation-System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.15.0-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![vLLM](https://img.shields.io/badge/vLLM-Latest-blueviolet)](https://github.com/vllm-project/vllm)
 [![LLaMA](https://img.shields.io/badge/Meta%20LLaMA-3--8B-orange)](https://ai.meta.com/blog/large-language-model-llama-3/)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Latest-green)](https://www.trychroma.com/)
-
-Micropoint is an advanced document generation system that creates professional PowerPoint presentations from natural language prompts, enhanced with Retrieval-Augmented Generation (RAG) for context-aware content.
-
 
 ## 🚀 Features
 
