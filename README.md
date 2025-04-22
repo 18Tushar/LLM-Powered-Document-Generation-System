@@ -136,7 +136,7 @@
 
 ## 👤 Contact
 
-- GitHub: [@18Tushar]([https://github.com/yourusername](https://github.com/18Tushar))
+- GitHub: [@18Tushar]([https://github.com/yourusername](https://github.com/18Tushar)
 - Email: worktush@outlook.com
-- LinkedIn: [Tushar Goud]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tushargoud7756))
+- LinkedIn: [Tushar Goud]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tushargoud7756)
 
